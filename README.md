@@ -1,1 +1,1 @@
-# EAROPDivideAndConquer
+# DivideAndConquer
